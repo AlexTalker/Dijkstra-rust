@@ -1,0 +1,4 @@
+[package]
+name = "Dejkstra"
+version = "0.0.1"
+authors = ["Alex Talker <alextalker@openmailbox.org>"]
